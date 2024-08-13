@@ -23,7 +23,7 @@ newUserBtn.addEventListener('click', ()=> {
     submitBtn.innerText = 'Submit',
     modalTitle.innerText = "Fill the Form"
     isEdit = false
-    imgInput.src = "./image/Profile Icon.webp"
+    imgInput.src = "Profile Icon.webp"
     form.reset()
 })
 
